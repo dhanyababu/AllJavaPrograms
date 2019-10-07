@@ -1,7 +1,7 @@
 import java.util.*;
 public class CarWash{
   public static void main(String[] args){
-    Car c1=new Car("VolvoXC90",2012,true,false);
+    Car c1=new Car("VolvoXC90",2012,true,true);
     CarWashProgram cw1=new CarWashProgram();
     cw1.washCar(c1);
   }
