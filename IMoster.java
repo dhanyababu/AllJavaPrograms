@@ -1,0 +1,5 @@
+package monsters;
+
+interface IMonster{
+  
+}
